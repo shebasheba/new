@@ -110,8 +110,8 @@ a:after {
 	color: white;
 	font-size: 30px;
 	font-weight: 100;
-    font-family: 'EB Garamond', serif;
-    font-style: oblique;
+    font-family: 'Helvetica', serif;
+    font-style: normal;
 }
 
 #headerwrap .logo {
@@ -310,4 +310,11 @@ a:after {
 			transition: all .1s ease-in-out;
 }
 
+      
+      mark {
+
+background-color: deeppink;
+
+color: white; }
+      
 
